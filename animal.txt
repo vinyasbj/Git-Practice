@@ -2,3 +2,8 @@ hello
 cat 
 bat 
 lion
+
+new animals
+
+dog
+rat
